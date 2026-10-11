@@ -1,0 +1,16 @@
+{
+  "name": "Studio.Foundation.Core",
+  "rootNamespace": "Studio.Foundation.Core",
+  "references": [
+    "Studio.Foundation.Abstractions"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": true
+}

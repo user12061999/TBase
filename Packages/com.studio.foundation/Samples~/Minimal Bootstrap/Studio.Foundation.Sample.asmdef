@@ -1,0 +1,9 @@
+{
+  "name": "Studio.Foundation.Sample",
+  "rootNamespace": "Studio.Foundation.Sample",
+  "references": ["Studio.Foundation.Abstractions", "Studio.Foundation.Core", "Studio.Foundation.Unity"],
+  "autoReferenced": false,
+  "overrideReferences": true,
+  "precompiledReferences": [],
+  "noEngineReferences": false
+}

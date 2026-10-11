@@ -1,0 +1,17 @@
+{
+  "name": "com.studio.foundation",
+  "version": "0.1.0-preview.1",
+  "displayName": "Studio Foundation",
+  "license": "MIT",
+  "description": "Independent Unity foundation package. Public contracts, service registry, logging, pure lifecycle/module host and typed Event Bus, explicit Unity bootstrap and console sink.",
+  "unity": "6000.3",
+  "unityRelease": "26f1",
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Minimal Bootstrap",
+      "description": "Opt-in scene composition with registry, lifecycle, typed events and console logging.",
+      "path": "Samples~/Minimal Bootstrap"
+    }
+  ]
+}

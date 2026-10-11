@@ -1,0 +1,14 @@
+{
+  "name": "Studio.Foundation.Unity",
+  "rootNamespace": "Studio.Foundation.Unity",
+  "references": ["Studio.Foundation.Abstractions", "Studio.Foundation.Core"],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

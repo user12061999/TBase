@@ -1,0 +1,7 @@
+{
+  "name": "Studio.Foundation.Validation.Runtime",
+  "references": ["Studio.Foundation.Abstractions", "Studio.Foundation.Core", "Studio.Foundation.Unity", "Studio.Foundation.Sample"],
+  "autoReferenced": false,
+  "overrideReferences": true,
+  "precompiledReferences": []
+}

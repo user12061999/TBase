@@ -1,0 +1,8 @@
+{
+  "name": "Studio.Foundation.Validation.Editor",
+  "references": ["Studio.Foundation.Abstractions", "Studio.Foundation.Core", "Studio.Foundation.Unity", "Studio.Foundation.Sample", "Studio.Foundation.Validation.Runtime", "UnityEngine.TestRunner", "UnityEditor.TestRunner"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": false,
+  "overrideReferences": true,
+  "precompiledReferences": ["nunit.framework.dll"]
+}

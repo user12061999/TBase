@@ -1,0 +1,23 @@
+{
+  "name": "Studio.Foundation.Tests.Runtime",
+  "rootNamespace": "Studio.Foundation.Tests.Runtime",
+  "references": [
+    "Studio.Foundation.Abstractions",
+    "Studio.Foundation.Core",
+    "Studio.Foundation.Unity",
+    "UnityEngine.TestRunner"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "nunit.framework.dll"
+  ],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

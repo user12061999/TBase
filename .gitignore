@@ -1,0 +1,25 @@
+# Unity-generated local state. Source assets and their metadata remain visible.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.vs/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+.DS_Store
+Thumbs.db
+
+# Local environment configuration is not a publication artifact.
+.env
+.env.*
+!.env.example
